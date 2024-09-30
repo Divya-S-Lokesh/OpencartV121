@@ -1,0 +1,6 @@
+2024-08-12 17:07:05 INFO  TC001_AccountRegistrationPage:17 - ******* Starting TC001_AccountRegistrationPage******
+2024-08-12 17:07:06 INFO  TC001_AccountRegistrationPage:24 - ***** Clicked on clickMyAccount*******
+2024-08-12 17:07:06 INFO  TC001_AccountRegistrationPage:26 - ***** Clicked on clickRegister*****
+2024-08-12 17:07:06 INFO  TC001_AccountRegistrationPage:33 - *****Providing customer details******
+2024-08-12 17:07:08 INFO  TC001_AccountRegistrationPage:48 - *****validating expeceted message******
+2024-08-12 17:07:08 INFO  TC001_AccountRegistrationPage:71 - *******Ending TC001_AccountRegistrationPage******
